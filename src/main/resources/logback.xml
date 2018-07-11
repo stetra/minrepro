@@ -1,0 +1,5 @@
+<configuration>
+    <!-- Crash goes away if next two lines are removed -->
+    <appender name="CLOUD" class="com.google.cloud.logging.logback.LoggingAppender">
+    </appender>
+</configuration>
